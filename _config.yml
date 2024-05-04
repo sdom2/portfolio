@@ -1,5 +1,5 @@
 title: test title
-logo: images/test_website_photo.jpeg
+# logo: images/test_website_photo.jpeg
 # description: text below image
 # show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
