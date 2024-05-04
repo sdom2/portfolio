@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science and Computational Linguistics
 
 ### Education
 Mathematics (Statistics) B.A., linguistics minor
