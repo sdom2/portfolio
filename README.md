@@ -8,6 +8,8 @@ Mathematics (Statistics) B.A., linguistics minor
 - Computational Linguistics and NLP Engineer Intern, SoapBox Labs
 - Programmer and Web Design Intern, Curve10 consultancy
 
+  /images/VAcode.png
+
 ### Projects and Presentations
 - Research in bilingual texting behavior and academic conference presenter:
     - *Los hábitos de textear de personas bilingües español-inglés*: Un estudio de corpus exploratorio
