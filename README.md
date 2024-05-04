@@ -13,9 +13,12 @@ Mathematics (Statistics) B.A., linguistics minor
   - Researched and [wrote about bilingualism]([url](https://www.soapboxlabs.com/blog/spanish-voice-engine-bilingual-speech-tech/)) and equity in speech AI
 
 - Programmer and Web Design Intern, Curve10 consultancy
+  - Developed algorithm for processing video data for University of Virginia education AI project (see image below)
+  - Aided in website designing, rebuilding, and editing for small businesses
+  - Communicated with team members to integrate feedback, optimize customer satisfaction
 
-  ![code in edu interface](/portfolio/images/VAcode.png)
-
+  ![code in Virgina edu for AI interface](/portfolio/images/VAcode.png)
+  *My algorithm processes classroom video data to identify activities or 'moments'* 
 
 ### Projects and Presentations
 - Research in bilingual texting behavior and academic conference presenter:
