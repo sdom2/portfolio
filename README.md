@@ -5,7 +5,13 @@ Mathematics (Statistics) B.A., linguistics minor
 
 ### Work experience
 - Machine Learning and Math Tutor, Lawrence University     2021-2024
+  
 - Computational Linguistics and NLP Engineer Intern, SoapBox Labs
+  - Analyzed phonetic data for dialectal equity in automatic speech recognition
+  - Tested new NLP algorithms (Python)
+  - Advised on hispanic linguistics during early development of Spanish voice engine
+  - Researched and [wrote about bilingualism]([url](https://www.soapboxlabs.com/blog/spanish-voice-engine-bilingual-speech-tech/)) and equity in speech AI
+
 - Programmer and Web Design Intern, Curve10 consultancy
 
   ![code in edu interface](/portfolio/images/VAcode.png)
