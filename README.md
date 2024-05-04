@@ -10,7 +10,7 @@ Mathematics (Statistics) B.A., linguistics minor
   - Analyzed phonetic data for dialectal equity in automatic speech recognition
   - Tested new NLP algorithms (Python)
   - Advised on hispanic linguistics during early development of Spanish voice engine
-  - Researched and [wrote about bilingualism]([(https://www.soapboxlabs.com/blog/spanish-voice-engine-bilingual-speech-tech/)]) and equity in speech AI
+  - Researched and [wrote about bilingualism](https://www.soapboxlabs.com/blog/spanish-voice-engine-bilingual-speech-tech/) and equity in speech AI
 
 - Programmer and Web Design Intern, Curve10 consultancy
   - Developed algorithm for processing video data for University of Virginia education AI project (see image below)
