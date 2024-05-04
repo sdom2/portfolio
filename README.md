@@ -18,7 +18,7 @@ Mathematics (Statistics) B.A., linguistics minor
   - Communicated with team members to integrate feedback, optimize customer satisfaction
 
   ![code in Virgina edu for AI interface](/portfolio/images/VAcode.png)
-  *My algorithm processes classroom video data to identify activities or 'moments'* 
+  *My algorithm processes classroom video data to identify activities or 'moments' as seen in the above education portal, part of the University of Virginia Education in AI project* 
 
 ### Projects and Presentations
 - Research in bilingual texting behavior and academic conference presenter:
