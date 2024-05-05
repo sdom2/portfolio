@@ -4,7 +4,6 @@
 Mathematics (Statistics) B.A., linguistics minor
 
 ### Work experience
-- Machine Learning and Math Tutor, Lawrence University     2021-2024
   
 - Computational Linguistics and NLP Engineer Intern, SoapBox Labs
   - Analyzed phonetic data for dialectal equity in automatic speech recognition
@@ -13,12 +12,15 @@ Mathematics (Statistics) B.A., linguistics minor
   - Researched and [wrote about bilingualism](https://www.soapboxlabs.com/blog/spanish-voice-engine-bilingual-speech-tech/) and equity in speech AI
 
 - Programmer and Web Design Intern, Curve10 consultancy
-  - Developed algorithm for processing video data for University of Virginia education AI project (see image below)
+  - Developed algorithm for processing video data for University of Virginia education AI project
+  
+  ![code in Virgina edu for AI interface](/portfolio/images/VAcode.png)
+  *My algorithm processes video data to identify classroom activities and 'moments' and calculate their metrics as seen in the above education portal, part of the University of Virginia Education in AI project* 
   - Aided in website designing, rebuilding, and editing for small businesses
   - Communicated with team members to integrate feedback, optimize customer satisfaction
 
-  ![code in Virgina edu for AI interface](/portfolio/images/VAcode.png)
-  *My algorithm processes video data to identify classroom activities and 'moments' and calculate their metrics as seen in the above education portal, part of the University of Virginia Education in AI project* 
+
+- Machine Learning and Math Tutor, Lawrence University     2021-2024
 
 ### Projects and Presentations
 - Research in bilingual texting behavior and academic conference presenter:
