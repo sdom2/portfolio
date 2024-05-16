@@ -1,7 +1,7 @@
-# Data Science, Computational Linguistics
 
 ### Education
 Mathematics (Statistics) B.A., linguistics minor
+Lawrence University, WI
 
 ### Work experience
   
@@ -30,3 +30,7 @@ Mathematics (Statistics) B.A., linguistics minor
      
 - *Politics, identity, and Arab perspectives on the United States* (Statistics senior research)
   - Modeling social data on the Middle East: unsupervised learning and logistic regression
+ 
+- Probability Experiment and Simulation
+- Linear Model Theory write-up / presentation
+- Mixed effects modeling of Chicago house prices
