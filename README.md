@@ -5,6 +5,12 @@ Lawrence University, WI
 
 ### Work experience
   
+- Research Mathemetician, CAD/CAM
+  - Research analytical methods for curve/surface modeling
+  - Build proofs-of-concept in Python using numpy, Tensorflow, PyTorch, etc
+  - Set up remote servers to test solutions on various processors
+  - Summarize results for executive decision-making
+
 - Computational Linguistics and NLP Engineer Intern, SoapBox Labs
   - Analyzed phonetic data for dialectal equity in automatic speech recognition
   - Tested new NLP algorithms (Python)
