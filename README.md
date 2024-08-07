@@ -27,6 +27,7 @@ Lawrence University, WI
 
 
 - Machine Learning and Math Tutor, Lawrence University     2021-2024
+- Writing Tutor, Center for Academic Success Lawrence University
 
 ### Projects and Presentations
 - Research in bilingual texting behavior and academic conference presenter:
