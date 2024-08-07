@@ -1,6 +1,7 @@
 
 ### Education
 Mathematics (Statistics) B.A., linguistics minor
+
 Lawrence University, WI
 
 ### Work experience
