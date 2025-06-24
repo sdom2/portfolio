@@ -4,6 +4,22 @@ Mathematics (Statistics) B.A., linguistics minor
 Lawrence University, WI
 
 ### Work experience
+- Data Scientist & Statistician, Metron
+  - Automated alert reports and built internal product metrics using Python and SQL
+  - Created visualizations and developed technical and training documentation for
+development and sales teams
+  - Developed anomaly detection for V1 product; partnered with engineers to implement
+  - Researched statistical methods for customer cohort analysis; conducted exploratory
+analysis and made data-driven recommendations
+  - Led product analytics meetings and scoped timelines with cross-functional teams
+  - Scaled analytics infrastructure in collaboration with engineers
+  - Worked with clients to identify needs and implement third-party APIs for data integration
+    
+- Research Assistant, Metron
+  - Designed statistical models to analyze water usage data using Python, Azure, and SQL.
+  - Validated methods and implemented automated solutions.
+  - Built data pipelines supporting exploratory work and software infrastructure testing.
+  - Developed stakeholder presentations to explain technical analyses and industry findings
   
 - Research Mathemetician, CAD/CAM
   - Research analytical methods for curve/surface modeling
