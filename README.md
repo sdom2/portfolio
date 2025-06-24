@@ -1,14 +1,15 @@
 
-### Education
+### Education, honors, and patents
 Mathematics (Statistics) B.A., linguistics minor
 
 Lawrence University, WI
 
-● Wriston Scholar: awarded to students with wide-ranging interests & academic excellence
-● Academic Conference Presenter: 2023 Harrison Symposium for research in bilingual
+- Wriston Scholar: awarded to students with wide-ranging interests & academic excellence
+- Academic Conference Presenter: 2023 Harrison Symposium for research in bilingual
 texting behavior
-● Academic Conference Presenter: University of Arizona Graduate Symposium in Hispanic
+- Academic Conference Presenter: University of Arizona Graduate Symposium in Hispanic
 Linguistics
+- Patent pending, May 2024: Tensor product solution for surface and object modeling in CAD/CAM
 
 ### Work experience
 - Data Scientist & Statistician, Metron
@@ -28,10 +29,11 @@ analysis and made data-driven recommendations
   - Built data pipelines supporting exploratory work and software infrastructure testing.
   - Developed stakeholder presentations to explain technical analyses and industry findings
   
-- Research Mathemetician, CAD/CAM
+- Research Mathemetician, CAD/CAM 
   - Research analytical methods for curve/surface modeling
   - Build proofs-of-concept in Python using numpy, Tensorflow, PyTorch, etc
   - Set up remote servers to test solutions on various processors
+  - Wrote white-papers on research results and industry implications (patent pending)
   - Summarize results for executive decision-making
 
 - Computational Linguistics and NLP Engineer Intern, SoapBox Labs
