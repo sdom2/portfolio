@@ -1,7 +1,14 @@
 
 ### Education
 Mathematics (Statistics) B.A., linguistics minor
+
 Lawrence University, WI
+
+● Wriston Scholar: awarded to students with wide-ranging interests & academic excellence
+● Academic Conference Presenter: 2023 Harrison Symposium for research in bilingual
+texting behavior
+● Academic Conference Presenter: University of Arizona Graduate Symposium in Hispanic
+Linguistics
 
 ### Work experience
 - Data Scientist & Statistician, Metron
